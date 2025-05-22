@@ -38,16 +38,16 @@ pip install numpy
 
 ### Clone the repository:
 
-bash```
+```bash
 git clone https://github.com/himanshu0154/real-estate-sim-numpy.git
 cd real-estate-sim-numpy
-
+```
 
 Run the main program:
 
-bash```
+```bash
 python main.py
-
+```
 
 Follow the on-screen menu to explore the houses and interact with the data.
 
